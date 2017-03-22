@@ -1,0 +1,5 @@
+{
+  "itemDisplayName": "IaC-Workstation",
+  "description": "An IaC workstation definition to provision new virtual machines for development environment",
+  "summary": "This provisions virtual machines for development"
+}
